@@ -1,0 +1,14 @@
+{
+  "targetDefaults": {
+    "build": {
+      "dependsOn": ["^build"]
+    },
+    "test": {
+      "dependsOn": ["build"]
+    }
+  },
+  "affected": {
+    "defaultBase": "master"
+  },
+  "nxCloudAccessToken": "NGRkYjA0YmMtMTNkOS00Y2RmLThiMWQtY2QzOTQwNTM2NzU0fHJlYWQtd3JpdGU="
+}
