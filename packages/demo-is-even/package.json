@@ -1,6 +1,6 @@
 {
   "name": "demo-is-even",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Alihan Ekiz <alihan.ekiz@outlook.de>",
   "homepage": "",
@@ -19,7 +19,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "demo-is-odd": "^0.0.1"
+    "demo-is-odd": "^0.0.2"
   },
   "devDependencies": {
     "jest": "^29.7.0",
